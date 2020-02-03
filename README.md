@@ -1,7 +1,8 @@
 # Array_Cielo
-Array para retorno de erro da api3.0 da cielo - Códigos de Retorno
 
-#PHP
+Array para retorno de erro da api 3.0 da cielo - Códigos de Retorno
+
+# PHP
 <pre>
 array(["0","Transação autorizada com sucesso.","Transação autorizada com sucesso.","Transação autorizada com sucesso.","Não"],
 ["1","Transação não autorizada. Transação referida.","Transação não autorizada. Referida (suspeita de fraude) pelo banco emissor.","Transação não autorizada. Entre em contato com seu banco emissor.","Não"],
